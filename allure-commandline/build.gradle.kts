@@ -54,6 +54,7 @@ dependencies {
     allurePlugin(project(path = ":behaviors-plugin", configuration = "allurePlugin"))
     allurePlugin(project(path = ":custom-logo-plugin", configuration = "allurePlugin"))
     allurePlugin(project(path = ":jira-plugin", configuration = "allurePlugin"))
+    allurePlugin(project(path = ":owners-plugin", configuration = "allurePlugin"))
     allurePlugin(project(path = ":junit-xml-plugin", configuration = "allurePlugin"))
     allurePlugin(project(path = ":packages-plugin", configuration = "allurePlugin"))
     allurePlugin(project(path = ":screen-diff-plugin", configuration = "allurePlugin"))
