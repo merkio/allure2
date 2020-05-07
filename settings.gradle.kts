@@ -9,6 +9,7 @@ val plugins = listOf(
         "behaviors-plugin",
         "custom-logo-plugin",
         "jira-plugin",
+        "owners-plugin",
         "junit-xml-plugin",
         "packages-plugin",
         "screen-diff-plugin",

@@ -3,6 +3,7 @@ plugins:
   - xunit-xml-plugin
   - trx-plugin
   - behaviors-plugin
+  - owners-plugin
   - packages-plugin
   - screen-diff-plugin
   - xctest-plugin
